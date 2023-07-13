@@ -1,0 +1,9 @@
+L37 - wtime?
+L69 - root directory ka logic confirm krna h
+L423 - write krte waqt not adding redundant size, to dekh lo
+L356 - check implementation 
+write - check the correctness of writing in double indorect pointers
+remove_entry_from_directory - correctness of indirect pointer wala part not tested yet  : in continuation 
+more than 32 entries in directory (basically use of indirect pointers not tested yet)
+
+delete directory not working properly
